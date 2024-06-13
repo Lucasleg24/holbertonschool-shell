@@ -1,2 +1,2 @@
 #!/bin/bash
-echo | find . -type f -o -type d -empty | ls -1a
+echo | find . -empty | ls -a1
