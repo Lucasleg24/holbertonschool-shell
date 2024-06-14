@@ -1,2 +1,2 @@
 #!/bin/bash
-echo cut -d "-c2" -f1 | head -7 | paste
+echo | cut -d "-c2" -f1 | paste 
